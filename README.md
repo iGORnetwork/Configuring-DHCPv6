@@ -29,3 +29,5 @@
 ![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_10.png)
  
 # Проверем подключение с помощью пинга IP-адреса интерфейса R1 E0/0 E0/1
+
+![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_11.png)

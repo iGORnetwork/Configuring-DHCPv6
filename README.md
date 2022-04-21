@@ -12,3 +12,5 @@
 3 Проверим назначения адреса SLAAC от R1 R2
 
 ![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_5.png)
+
+4 Настроем R1 для предоставления DHCPv6 без отслеживания  состояния для PC-A.

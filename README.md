@@ -16,4 +16,4 @@
 4 Настроем R1 для предоставления DHCPv6 без отслеживания  состояния для PC-A.
 
 ![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_6.png)
-![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_7.png)
+

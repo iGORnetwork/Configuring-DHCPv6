@@ -8,3 +8,5 @@
 2 Убеждаемся, что маршрутизация работает с помощью пинга адреса E0/1 R2 из R1
 
 ![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_4.png)
+
+3 Проверим назначения адреса SLAAC от R1 R2

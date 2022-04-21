@@ -17,3 +17,5 @@
 
 ![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_6.png)
 
+![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_6.png)
+![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_7.png)

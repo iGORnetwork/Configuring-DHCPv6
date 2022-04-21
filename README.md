@@ -7,4 +7,4 @@
 
 2 Убеждаемся, что маршрутизация работает с помощью пинга адреса G0/0/1 R2 из R1
 
-![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_3.png)
+![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_4.png)

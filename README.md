@@ -23,3 +23,6 @@
 ![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_8.png)
 
 # Настроем R2 в качестве агента DHCP-ретрансляции для локальной сети на E0/1.
+
+![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_9.png)
+![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_10.png)

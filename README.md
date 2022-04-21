@@ -19,3 +19,5 @@
 ![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_7.png)
 
 # 5 Настроим DHCPv6 сервер с сохранением состояния на R1
+
+![](https://github.com/iGORnetwork/Configuring-DHCPv6/blob/main/image/Screenshot_8.png)
